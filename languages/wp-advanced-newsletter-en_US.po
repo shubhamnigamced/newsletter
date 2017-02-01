@@ -1,0 +1,422 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP Advanced Newsletter\n"
+"POT-Creation-Date: 2016-07-11 15:12+0530\n"
+"PO-Revision-Date: 2016-07-11 15:13+0530\n"
+"Last-Translator: \n"
+"Language-Team: CedCommerce <plugins@cedcommerce.com>\n"
+"Language: English\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.4\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"Plural-Forms: Plural-Forms: nplurals=2; plural=n == 1 ? 0 : 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/service-lists.php:16 admin/subscribers.php:16
+#: admin/service-campaigns.php:20
+msgid "Select an Email Subscription Service"
+msgstr ""
+
+#: admin/service-lists.php:19 admin/subscribers.php:19
+#: admin/service-campaigns.php:23
+msgid "No Service"
+msgstr ""
+
+#: admin/service-lists.php:20 admin/subscribers.php:20
+#: admin/subscription-setting.php:176 admin/service-campaigns.php:24
+msgid "Active Campaign"
+msgstr ""
+
+#: admin/service-lists.php:21 admin/subscribers.php:21
+#: admin/subscription-setting.php:119 admin/service-campaigns.php:25
+msgid "Constant Contact"
+msgstr ""
+
+#: admin/service-lists.php:22 admin/subscribers.php:22
+#: admin/service-campaigns.php:26
+msgid "MailChimp"
+msgstr ""
+
+#: admin/service-lists.php:35
+msgid "Mailchimp Lists"
+msgstr ""
+
+#: admin/service-lists.php:38 admin/service-lists.php:90
+#: admin/service-lists.php:166
+msgid "S. No."
+msgstr ""
+
+#: admin/service-lists.php:39 admin/service-lists.php:91
+#: admin/service-lists.php:167 admin/constact-contact-campaign-detail.php:33
+#: admin/active-campaign-detail.php:65 admin/service-campaigns.php:103
+#: admin/service-campaigns.php:188 admin/service-campaigns.php:404
+#: admin/service-campaigns.php:467 admin/service-campaigns.php:892
+msgid "Name"
+msgstr ""
+
+#: admin/service-lists.php:40 admin/service-lists.php:92
+#: admin/service-lists.php:168
+msgid "No of Subscriber"
+msgstr ""
+
+#: admin/service-lists.php:41 admin/service-lists.php:93
+#: admin/service-lists.php:169
+msgid "Created Date"
+msgstr ""
+
+#: admin/service-lists.php:87
+msgid "Constant Contact Lists"
+msgstr ""
+
+#: admin/service-lists.php:119 admin/service-lists.php:194
+msgid "Add List"
+msgstr ""
+
+#: admin/service-lists.php:123 admin/service-lists.php:198
+msgid "List Name"
+msgstr ""
+
+#: admin/service-lists.php:163
+msgid "Active Campaign Lists"
+msgstr ""
+
+#: admin/service-lists.php:203
+msgid "Sender Name"
+msgstr ""
+
+#: admin/service-lists.php:208
+msgid "Sender Address"
+msgstr ""
+
+#: admin/service-lists.php:213
+msgid "Sender City"
+msgstr ""
+
+#: admin/service-lists.php:218
+msgid "Zip Code"
+msgstr ""
+
+#: admin/service-lists.php:223 admin/constact-contact-campaign-detail.php:397
+#: admin/service-campaigns.php:818
+msgid "Country"
+msgstr ""
+
+#: admin/subscribers.php:40 admin/subscribers.php:94 admin/subscribers.php:142
+msgid "Sno"
+msgstr ""
+
+#: admin/subscribers.php:41 admin/subscribers.php:95 admin/subscribers.php:143
+msgid "Email address"
+msgstr ""
+
+#: admin/subscribers.php:42
+msgid "Lists"
+msgstr ""
+
+#: admin/subscribers.php:43 admin/subscribers.php:96 admin/subscribers.php:144
+msgid "Subscription From"
+msgstr ""
+
+#: admin/subscribers.php:44 admin/subscribers.php:97 admin/subscribers.php:145
+msgid "UnSubscribe"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:14
+#: admin/constact-contact-campaign-detail.php:29
+msgid "Update Campaign"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:19 admin/service-campaigns.php:940
+msgid "Campaign Type"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:23 admin/service-campaigns.php:943
+msgid "Regular"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:24 admin/service-campaigns.php:944
+msgid "Plain Text"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:30 admin/service-campaigns.php:950
+msgid "Campaign Title"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:43
+#: admin/constact-contact-campaign-detail.php:87
+#: admin/service-campaigns.php:517 admin/service-campaigns.php:963
+msgid "Lists to send to"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:68
+#: admin/constact-contact-campaign-detail.php:42
+#: admin/active-campaign-detail.php:93 admin/service-campaigns.php:216
+#: admin/service-campaigns.php:472 admin/service-campaigns.php:981
+msgid "Subject"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:73
+#: admin/constact-contact-campaign-detail.php:47
+#: admin/active-campaign-detail.php:81 admin/service-campaigns.php:204
+#: admin/service-campaigns.php:477 admin/service-campaigns.php:986
+msgid "From Name"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:78
+#: admin/constact-contact-campaign-detail.php:52
+#: admin/active-campaign-detail.php:87 admin/service-campaigns.php:210
+#: admin/service-campaigns.php:482 admin/service-campaigns.php:991
+msgid "From Email"
+msgstr ""
+
+#: admin/mailchimp-campaign-detail.php:84
+#: admin/constact-contact-campaign-detail.php:63
+#: admin/active-campaign-detail.php:98 admin/service-campaigns.php:221
+#: admin/service-campaigns.php:493 admin/service-campaigns.php:997
+msgid "Email Content"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:57
+#: admin/service-campaigns.php:487
+msgid "Text Content"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:82
+#: admin/service-campaigns.php:512
+msgid "Reply-To Email"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:108
+#: admin/service-campaigns.php:530 admin/service-campaigns.php:899
+msgid "Send Time"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:113
+#: admin/service-campaigns.php:535
+msgid "Address"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:117
+#: admin/service-campaigns.php:539
+msgid "Organization Name"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:122
+#: admin/service-campaigns.php:544
+msgid "Address Line 1"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:127
+#: admin/service-campaigns.php:549
+msgid "Address Line 2"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:132
+#: admin/service-campaigns.php:554
+msgid "Address Line 3"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:137
+#: admin/service-campaigns.php:559
+msgid "City"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:142
+#: admin/service-campaigns.php:564
+msgid "State"
+msgstr ""
+
+#: admin/constact-contact-campaign-detail.php:147
+#: admin/service-campaigns.php:569
+msgid "Postal Code"
+msgstr ""
+
+#: admin/subscription-setting.php:63
+msgid "Mailchimp Setting:"
+msgstr ""
+
+#: admin/subscription-setting.php:68 admin/subscription-setting.php:116
+#: admin/subscription-setting.php:173
+msgid "Enable:"
+msgstr ""
+
+#: admin/subscription-setting.php:71
+msgid "Mailchimp"
+msgstr ""
+
+#: admin/subscription-setting.php:76
+msgid "Mailchimp API Key:"
+msgstr ""
+
+#: admin/subscription-setting.php:79 admin/subscription-setting.php:127
+msgid "Enter Api Key here ..."
+msgstr ""
+
+#: admin/subscription-setting.php:87 admin/subscription-setting.php:145
+#: admin/subscription-setting.php:200
+msgid "List :"
+msgstr ""
+
+#: admin/subscription-setting.php:92 admin/subscription-setting.php:150
+#: admin/subscription-setting.php:204
+msgid "Select"
+msgstr ""
+
+#: admin/subscription-setting.php:111
+msgid "Constant contact Setting:"
+msgstr ""
+
+#: admin/subscription-setting.php:124
+msgid "Constant contact API Key:"
+msgstr ""
+
+#: admin/subscription-setting.php:134
+msgid "Constant contact access token:"
+msgstr ""
+
+#: admin/subscription-setting.php:137
+msgid "Enter Access Token here ..."
+msgstr ""
+
+#: admin/subscription-setting.php:168
+msgid "Active campaign Setting:"
+msgstr ""
+
+#: admin/subscription-setting.php:181
+msgid "Active campaign API Url :"
+msgstr ""
+
+#: admin/subscription-setting.php:184
+msgid "Enter Api Url here ..."
+msgstr ""
+
+#: admin/subscription-setting.php:189
+msgid "Active campaign access Key:"
+msgstr ""
+
+#: admin/subscription-setting.php:192
+msgid "Enter Access Key here ..."
+msgstr ""
+
+#: admin/active-campaign-detail.php:61
+msgid "Campaign Detail"
+msgstr ""
+
+#: admin/active-campaign-detail.php:70 admin/service-campaigns.php:193
+msgid "Schedule Date"
+msgstr ""
+
+#: admin/active-campaign-detail.php:75 admin/service-campaigns.php:109
+#: admin/service-campaigns.php:198 admin/service-campaigns.php:408
+#: admin/service-campaigns.php:896
+msgid "Status"
+msgstr ""
+
+#: admin/active-campaign-detail.php:106 admin/service-campaigns.php:240
+msgid "List"
+msgstr ""
+
+#: admin/service-campaigns.php:99 admin/service-campaigns.php:398
+#: admin/service-campaigns.php:886
+msgid "Campaigns List"
+msgstr ""
+
+#: admin/service-campaigns.php:106 admin/service-campaigns.php:406
+#: admin/service-campaigns.php:894 includes/main-setting.php:35
+#: includes/wpanl-class.php:110
+msgid "Subscribers"
+msgstr ""
+
+#: admin/service-campaigns.php:112 admin/service-campaigns.php:411
+msgid "Schedule Time"
+msgstr ""
+
+#: admin/service-campaigns.php:115 admin/service-campaigns.php:902
+msgid "View/Send/Delete"
+msgstr ""
+
+#: admin/service-campaigns.php:162 admin/service-campaigns.php:442
+#: admin/service-campaigns.php:916
+msgid "Created At"
+msgstr ""
+
+#: admin/service-campaigns.php:167 admin/service-campaigns.php:447
+#: admin/service-campaigns.php:921
+msgid "View"
+msgstr ""
+
+#: admin/service-campaigns.php:179 admin/service-campaigns.php:457
+msgid "No Campaigns"
+msgstr ""
+
+#: admin/service-campaigns.php:184 admin/service-campaigns.php:463
+#: admin/service-campaigns.php:935
+msgid "Add Campaign"
+msgstr ""
+
+#: admin/service-campaigns.php:414
+msgid "Delete"
+msgstr ""
+
+#: admin/notification.php:34
+msgid "Subscriber Success Message"
+msgstr ""
+
+#: admin/notification.php:39
+msgid "Sucess message to subscriber "
+msgstr ""
+
+#: admin/notification.php:50
+msgid "Subscriber Failure Message"
+msgstr ""
+
+#: admin/notification.php:55
+msgid "Failure message to subscriber "
+msgstr ""
+
+#: admin/notification.php:66
+msgid "Subscriber Success Mail"
+msgstr ""
+
+#: admin/notification.php:71
+msgid "Success mail to subscriber"
+msgstr ""
+
+#: admin/notification.php:82
+msgid "Admin Notification"
+msgstr ""
+
+#: admin/notification.php:88
+msgid "Subscriber Success Admin Mail"
+msgstr ""
+
+#: admin/notification.php:93
+msgid "Success mail to admin"
+msgstr ""
+
+#: includes/main-setting.php:14
+msgid "setting_newsletter"
+msgstr ""
+
+#: includes/main-setting.php:14
+msgid "Advanced Newsletter"
+msgstr ""
+
+#: includes/main-setting.php:31
+msgid "Subscription Setting"
+msgstr ""
+
+#: includes/main-setting.php:32
+msgid "Notification Setting"
+msgstr ""
+
+#: includes/main-setting.php:33
+msgid "Service Campaigns"
+msgstr ""
+
+#: includes/main-setting.php:34
+msgid "Service Lists"
+msgstr ""

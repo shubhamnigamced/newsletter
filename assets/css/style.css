@@ -1,0 +1,10 @@
+#user_email_address .wp_news_input > input {
+    margin: 15px 0;
+    width: 96%;
+}
+#cboxLoadedContent > form {
+    padding: 15px;
+}
+#load_img{
+	display:none;
+}
